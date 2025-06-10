@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Familiada",
+  "description": "Zestaw rund do familiady",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "question": { "type": "string", "minLength": 1 },
+      "multiplier": { "type": "integer", "minimum": 1, "maximum": 3 },
+      "answers": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "content": { "type": "string", "minLength": 1, "maxLength": 17 },
+            "points": { "type": "integer", "minimum": 1, "maximum": 100 }
+          }
+        }
+      }
+    }
+  },
+  "maxItems": 6,
+  "minItems": 1
+}
