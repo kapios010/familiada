@@ -1,7 +1,7 @@
 # Jak przygotować pytania do familiady
 
-1. Wchodzicie pod link [https://json-editor.github.io/json-editor/]
-2. Kopiujecie treść pliku [https://github.com/kapios010/familiada/blob/main/familiada.schema.json] ręcznie lub przyciskiem ![image](https://github.com/user-attachments/assets/e30c2afa-4d0e-44bc-bf8e-d79948263826) w prawym górnym rogu
+1. Wchodzicie pod link https://json-editor.github.io/json-editor/
+2. Kopiujecie treść pliku https://github.com/kapios010/familiada/blob/main/familiada.schema.json ręcznie lub przyciskiem ![image](https://github.com/user-attachments/assets/e30c2afa-4d0e-44bc-bf8e-d79948263826) w prawym górnym rogu
 3. Zmieniacie treść pola "Schema" na dole otwartej strony i wklejacie tam skopiowany tekst ![image](https://github.com/user-attachments/assets/e347b13e-c4fb-436b-a41a-d57a12be5e57)
 4. Klikacie "Update Schema"
 5. Przewijacie stronę na samą górę i edytujecie pytania zgodnie z formularzem ![image](https://github.com/user-attachments/assets/bab69ab9-b068-462f-bacf-f4cf02fe7ac0)
