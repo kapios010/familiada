@@ -18,4 +18,4 @@
 
 9. Tekst ten wklejacie do pliku w formacie JSON, np. `runda-1.json` i przesyłacie mi
 
-10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a 1 runda to jedno z 5 pytań finałowych
+10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
