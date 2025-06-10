@@ -10,12 +10,10 @@
 
 5. Przewijacie stronę na samą górę i edytujecie pytania zgodnie z formularzem ![image](https://github.com/user-attachments/assets/bab69ab9-b068-462f-bacf-f4cf02fe7ac0)
 
-6. Rundy i pytania dodajecie przyciskiem ![image](https://github.com/user-attachments/assets/e46a4974-97fe-4c28-8eda-13e56fb69103)
+6. Możliwe jest maksymalnie 5 rund, a każda z nich może mieć max. 6 odpowiedzi
 
-7. Możliwe jest maksymalnie 5 rund, a każda z nich może mieć max. 6 odpowiedzi
+7. Gdy skończycie, kopiujecie tekst w polu ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
 
-8. Gdy skończycie, kopiujecie tekst w polu ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
+8. Tekst ten wklejacie do pliku w formacie JSON, np. `runda-1.json` i przesyłacie mi
 
-9. Tekst ten wklejacie do pliku w formacie JSON, np. `runda-1.json` i przesyłacie mi
-
-10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
+9. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
