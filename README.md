@@ -12,8 +12,10 @@
 
 6. Możliwe jest maksymalnie 5 rund, a każda z nich może mieć max. 6 odpowiedzi
 
-7. Gdy skończycie, kopiujecie tekst w polu ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
+7. Gdy skończycie, bierzecie tekst z pola "JSON Output"
 
-8. Tekst ten wklejacie do pliku w formacie JSON, np. `runda-1.json` i przesyłacie mi
+   ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
 
-9. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
+9. Tekst ten wklejacie do pliku w formacie JSON, np. `runda-1.json` i przesyłacie mi
+
+10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
