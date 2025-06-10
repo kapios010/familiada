@@ -6,20 +6,22 @@
   "items": {
     "type": "object",
     "properties": {
-      "question": { "type": "string", "minLength": 1 },
-      "multiplier": { "type": "integer", "minimum": 1, "maximum": 3 },
-      "answers": {
+      "pytanie": { "type": "string", "minLength": 1 },
+      "mnożnik": { "type": "integer", "minimum": 1, "maximum": 3 },
+      "odpowiedzi": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "content": { "type": "string", "minLength": 1, "maxLength": 17 },
-            "points": { "type": "integer", "minimum": 1, "maximum": 100 }
-          }
+            "treść": { "type": "string", "minLength": 1, "maxLength": 17 },
+            "punkty": { "type": "integer", "minimum": 1, "maximum": 100 }
+          },
+          "maxItems": 6,
+          "minItems": 1
         }
       }
     }
   },
-  "maxItems": 6,
-  "minItems": 1
+  "maxItems":5,
+  "minItems":1
 }
