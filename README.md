@@ -24,4 +24,4 @@
 
 8. Tekst ten wklejacie do pliku w formacie .familiada.json, np. `gra-3A-3B.familiada.json` i przesyłacie mi
 
-9. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
+9. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych. Treść odpowiedzi może składać się tylko z max. 17 dużych liter, znaków polskich oraz ". / -" i spacji
