@@ -19,7 +19,7 @@
             "punkty": { "type": "integer", "minimum": 1, "maximum": 100 }
           },
           "required":["treść","punkty"],
-          "additionalProperties": false,
+          "additionalProperties": false
         },
         "maxItems": 6,
         "minItems": 3
