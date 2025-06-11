@@ -9,7 +9,7 @@
     "additionalProperties":false,
     "properties": {
       "pytanie": { "type": "string", "minLength": 1 },
-      "mnożnik": { "type": "integer", "minimum": 1, "maximum": 3 },
+      "mnożnik": { "type": "integer", "minimum": 1, "maximum": 3, "default": 1 },
       "odpowiedzi": {
         "type": "array",
         "items": {
