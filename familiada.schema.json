@@ -21,7 +21,7 @@
           "required":["treść","punkty"],
           "additionalProperties": false,
           "maxItems": 6,
-          "minItems": 1
+          "minItems": 3
         }
       }
     }
