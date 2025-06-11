@@ -16,7 +16,7 @@
 
    ![image](https://github.com/user-attachments/assets/bab69ab9-b068-462f-bacf-f4cf02fe7ac0)
 
-6. Możliwe jest maksymalnie 5 rund, a każda z nich może mieć max. 6 odpowiedzi
+6. Możliwe jest maksymalnie 5 rund, a każda z nich może mieć od 3 do 6 odpowiedzi
 
 7. Jeśli pojawią się jakiekolwiek błędy w podanych danych, będą napisane na czerwono lub będą w polu
 
