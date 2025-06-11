@@ -22,6 +22,6 @@
 
    ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
 
-8. Tekst ten wklejacie do pliku w formacie JSON, np. `gra-3A-3B.json` i przesyłacie mi
+8. Tekst ten wklejacie do pliku w formacie .familiada.json, np. `gra-3A-3B.familiada.json` i przesyłacie mi
 
 9. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych
