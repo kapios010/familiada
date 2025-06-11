@@ -20,9 +20,9 @@
           },
           "required":["treść","punkty"],
           "additionalProperties": false,
-          "maxItems": 6,
-          "minItems": 3
-        }
+        },
+        "maxItems": 6,
+        "minItems": 3
       }
     }
   },
