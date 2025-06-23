@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Familiada - Finał",
+  "description": "Zestaw rund do finału familiady",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["pytanie", "odpowiedzi"],
+    "properties": {
+      "pytanie": { "type": "string", "minLength": 1 },
+      "odpowiedzi": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "treść": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 10,
+              "pattern": "^[0-9A-Z .ĄĆĘŁŃÓŚŹŻ/-]{1,10}$"
+            },
+            "punkty": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99,
+              "default": 1
+            }
+          },
+          "minItems": 3,
+          "maxItems": 6,
+          "required": ["treść", "punkty"],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "maxItems": 5,
+  "minItems": 5
+}
