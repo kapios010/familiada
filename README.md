@@ -6,15 +6,13 @@
 
    ![image](https://github.com/user-attachments/assets/e30c2afa-4d0e-44bc-bf8e-d79948263826)
 
-3. Zmieniacie treść pola "Schema" na dole otwartej strony i wklejacie tam skopiowany tekst
+3. Zmieniacie treść pola "Schema" w prawej części otwartej strony i wklejacie tam skopiowany tekst
 
-   ![image](https://github.com/user-attachments/assets/e347b13e-c4fb-436b-a41a-d57a12be5e57)
+   <img width="457" height="382" alt="image" src="https://github.com/user-attachments/assets/fc7f3ca7-90e7-4a78-85ea-640a814ead2b" />
 
-4. Klikacie "Set Schema", potem "Show validation errors" (pokazuje błędy w formatowaniu)
+4. Klikacie "Set Schema"
 
-   <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/0323d296-4fd2-4572-bc65-aabc04b52303" />
-
-5. Przewijacie stronę na samą górę i edytujecie pytania zgodnie z formularzem
+5. Edytujecie pytania zgodnie z formularzem
 
    ![image](https://github.com/user-attachments/assets/bab69ab9-b068-462f-bacf-f4cf02fe7ac0)
 
@@ -22,12 +20,12 @@
 
 7. Jeśli pojawią się jakiekolwiek błędy w podanych danych, będą napisane na czerwono lub będą w polu
 
-![image](https://github.com/user-attachments/assets/9e9fd68e-7310-4a94-b5a8-a0889a7af2cc)
+<img width="779" height="196" alt="image" src="https://github.com/user-attachments/assets/0fb4a37e-3e82-45c3-8b95-2a45fc6e45ed" />
 
 8. Gdy skończycie, bierzecie tekst z pola "Value"
 
-   ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
+   <img width="471" height="266" alt="image" src="https://github.com/user-attachments/assets/dee9fc84-606a-46c6-9a90-eafd9a656cf2" />
 
 9. Tekst ten wklejacie do pliku w formacie .familiada.json lub .final.familiada.json, np. `gra-3A-3B.familiada.json`/`final.final.familiada.json` i przesyłacie mi
 
-10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych. Powtarzacie proces tak jak w innych rundach, tylko że w kroku drugim plik do skopiowania to https://github.com/kapios010/familiada/blob/main/final.familiada.schema.json
+10. W ten sam sposób przygotowujecie pytania do finału. Powtarzacie proces tak jak w innych rundach, tylko że w kroku drugim plik do skopiowania to https://github.com/kapios010/familiada/blob/main/final.familiada.schema.json
