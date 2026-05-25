@@ -26,6 +26,6 @@
 
    <img width="471" height="266" alt="image" src="https://github.com/user-attachments/assets/dee9fc84-606a-46c6-9a90-eafd9a656cf2" />
 
-9. Tekst ten wklejacie do pliku w formacie .familiada.json lub .final.familiada.json, np. `gra-3A-3B.familiada.json`/`final.final.familiada.json` i przesyłacie mi
+9. Tekst ten wklejacie do pliku w formacie .round.familiada.json lub .final.familiada.json, np. `gra-3A-3B.round.familiada.json`/`final.final.familiada.json` i przesyłacie mi
 
 10. W ten sam sposób przygotowujecie pytania do finału. Powtarzacie proces tak jak w innych rundach, tylko że w kroku drugim plik do skopiowania to https://github.com/kapios010/familiada/blob/main/final.familiada.schema.json
