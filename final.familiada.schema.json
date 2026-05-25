@@ -12,6 +12,8 @@
         "type": "array",
         "items": {
           "type": "object",
+          "minItems": 3,
+          "maxItems": 6,
           "properties": {
             "treść": {
               "type": "string",
@@ -26,8 +28,6 @@
               "default": 1
             }
           },
-          "minItems": 3,
-          "maxItems": 6,
           "required": ["treść", "punkty"],
           "additionalProperties": false
         }
