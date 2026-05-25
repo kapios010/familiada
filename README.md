@@ -1,6 +1,6 @@
 # Jak przygotować pytania do familiady
 
-1. Wchodzicie pod link https://json-editor.github.io/json-editor
+1. Wchodzicie pod link https://germanbisurgi.github.io/jedison/index.html
 
 2. Kopiujecie treść pliku https://github.com/kapios010/familiada/blob/main/familiada.schema.json ręcznie lub przyciskiem w prawym górnym rogu:
 
@@ -10,7 +10,9 @@
 
    ![image](https://github.com/user-attachments/assets/e347b13e-c4fb-436b-a41a-d57a12be5e57)
 
-4. Klikacie "Update Schema"
+4. Klikacie "Set Schema", potem "Show validation errors" (pokazuje błędy w formatowaniu)
+
+   <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/0323d296-4fd2-4572-bc65-aabc04b52303" />
 
 5. Przewijacie stronę na samą górę i edytujecie pytania zgodnie z formularzem
 
