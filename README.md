@@ -28,4 +28,4 @@
 
 9. Tekst ten wklejacie do pliku w formacie .familiada.json, np. `gra-3A-3B.familiada.json` i przesyłacie mi
 
-10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych. Treść odpowiedzi może składać się tylko z max. 17 dużych liter, znaków polskich, cyfr oraz ". / -" i spacji
+10. W ten sam sposób przygotowujecie pytania do finału, tylko że w nich mnożnik nie ma znaczenia, a jedna runda to jedno z 5 pytań finałowych. Treść odpowiedzi może składać się tylko z max. 17 dużych liter, znaków polskich, cyfr oraz ". / -" i spacji. Powtarzacie proces od kroku pierwszego, tylko że w kroku drugim plik do skopiowania to https://github.com/kapios010/familiada/blob/main/final.familiada.schema.json
