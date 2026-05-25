@@ -27,5 +27,5 @@
     }
   },
   "maxItems":5,
-  "minItems":1
+  "minItems":5
 }
