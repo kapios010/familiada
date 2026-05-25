@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/9e9fd68e-7310-4a94-b5a8-a0889a7af2cc)
 
-8. Gdy skończycie, bierzecie tekst z pola "JSON Output"
+8. Gdy skończycie, bierzecie tekst z pola "Value"
 
    ![image](https://github.com/user-attachments/assets/2bd1c467-fbd1-49f8-8ee2-e58c5573bfad)
 
